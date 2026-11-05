@@ -1,0 +1,15 @@
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\bin\Debug\net10.0\opdracht biniar array.exe
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\bin\Debug\net10.0\opdracht biniar array.deps.json
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\bin\Debug\net10.0\opdracht biniar array.runtimeconfig.json
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\bin\Debug\net10.0\opdracht biniar array.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\bin\Debug\net10.0\opdracht biniar array.pdb
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\opdracht biniar array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\opdracht biniar array.AssemblyInfoInputs.cache
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\opdracht biniar array.AssemblyInfo.cs
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\opdracht biniar array.csproj.CoreCompileInputs.cache
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\opdracht biniar array.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\refint\opdracht biniar array.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\opdracht biniar array.pdb
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\opdracht biniar array.genruntimeconfig.cache
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\ref\opdracht biniar array.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht liniar array\opdracht biniar array\opdracht biniar array\obj\Debug\net10.0\opdracht.675FE93F.Up2Date
